@@ -4,6 +4,17 @@ A smart tool to find the best way to use your items in Arc Raiders.
 
 ---
 
+❤️ **Support Development
+If you find this tool helpful, consider supporting its development:**
+
+**Buy Me a Coffee ☕ - Help keep this project alive**
+
+**Paypal: abdalrahman.gamal.m@gmail.com**
+
+**Share it - Spread the word in the Arc Raiders community**
+
+**Report Issues - Help improve the tool**
+
 ## 🚀 Quick Start
 
 ### Option 1: Download EXE (Easiest)
